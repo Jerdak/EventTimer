@@ -2,7 +2,7 @@
 #define __EVENT_TIMER_H__
 
 #include <windows.h>
- 
+  
 namespace Utilities {
 	namespace Common{
 		struct ProfTimer {
